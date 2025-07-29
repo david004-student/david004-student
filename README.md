@@ -1,14 +1,11 @@
-# Hi there, I'm Epit 👋
-
-🎯 *A passionate back-end developer from Indonesia 🇮🇩*
+# Hi there, I'm David 👋
 
 ---
 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning: **PHP**, **Laravel**, and **MongoDB**
-- 🧠 I’m working on: **Hospital Staff Admin System**
-- 📫 Reach me via email: [epit.dev@gmail.com](mailto:epit.dev@gmail.com)
+- 📫 Reach me via email: [davidP@gmail.com](mailto:s22210250@student.unklab.ac.id)
 
 ---
 
