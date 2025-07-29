@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 - 🌱 I’m currently learning: **PHP**, **Laravel**, and **MongoDB**
-- 📫 Reach me via email: [davidP@gmail.com](mailto:s22210250@student.unklab.ac.id)
+- 📫 Reach me via email: [davidP@gmail.com]([mailto:s22210250@student.unklab.ac.id](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPkZflRzpvNLSgNFQkxnbQWlnzQpdBckQxJRtZqzklRfglKSdVFRXXFRbFtrTxCzwClQbh))
 
 ---
 
