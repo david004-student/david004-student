@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Epit 👋
 
-<!--
-**david004-student/david004-student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a back-end developer from Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+🌱 I’m currently learning: PHP, Laravel, MongoDB  
+💼 I’m working on: Hospital Staff Admin System  
+📫 How to reach me: epit.dev@gmail.com  
+🛠️ Tools I use:  
+![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Epit's GitHub stats](https://github-readme-stats.vercel.app/api?username=epit-dev&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epit-dev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
