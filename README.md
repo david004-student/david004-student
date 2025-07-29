@@ -30,12 +30,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Epit's GitHub stats](https://github-readme-stats.vercel.app/api?username=epit-dev&show_icons=true&theme=tokyonight&hide=contribs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epit-dev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 > ✨ "Code is like humor. When you have to explain it, it’s bad." – Cory House
