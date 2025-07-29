@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 - 🌱 I’m currently learning: **PHP**, **Laravel**, and **MongoDB**
-- 📫 Reach me via email: [davidP@gmail.com]([(https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPkZflRzpvNLSgNFQkxnbQWlnzQpdBckQxJRtZqzklRfglKSdVFRXXFRbFtrTxCzwClQbh)])
+- 📫 Reach me via email: [davidP@gmail.com]([https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPkZflRzpvNLSgNFQkxnbQWlnzQpdBckQxJRtZqzklRfglKSdVFRXXFRbFtrTxCzwClQbh])
 
 ---
 
